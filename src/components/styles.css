@@ -71,8 +71,8 @@
 .navbar{
     background-image: var(--background-image);
     color: var(--text-color);
-    padding: 15px;
     position: fixed;
+    padding: 15px;
 }
 .text{
     color: var(--text-color);
