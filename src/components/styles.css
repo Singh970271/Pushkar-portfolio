@@ -72,6 +72,7 @@
     background-image: var(--background-image);
     color: var(--text-color);
     padding: 15px;
+    position: fixed;
 }
 .text{
     color: var(--text-color);
